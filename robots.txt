@@ -1,0 +1,5 @@
+User-agent: *
+allow: /
+Disallow: /privacy.html
+
+Sitemap: https://sampsoncay.netlify.app/sitemap.xml
